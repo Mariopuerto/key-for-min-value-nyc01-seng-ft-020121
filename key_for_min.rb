@@ -4,10 +4,9 @@
 
 
 def key_for_min_value(name_hash)
-name_hash = 0
-empty_hash = nil
-
-  name_hash.each do |key|
-    print "#{key}"
+  name_hash.keys.each { |key| 
+    puts key }.
+    
   end
 end
+
