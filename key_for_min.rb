@@ -4,9 +4,8 @@
 
 
 def key_for_min_value(name_hash)
-  name_hash.keys.each { |key| 
+  name_hash.keys.each { |key|
     puts key }.
-    
+
   end
 end
-
