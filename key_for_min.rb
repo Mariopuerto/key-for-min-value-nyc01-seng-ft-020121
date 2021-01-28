@@ -9,5 +9,5 @@ smallest_value = 0
     if smallest_value == 0 || value < smallest_value
       smallest_value = value
   end
-
+end
 end
