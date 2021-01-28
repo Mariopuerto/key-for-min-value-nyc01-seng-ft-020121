@@ -8,9 +8,9 @@ name_hash = 0
 empty_hash = nil
   name_hash.each do | key, value|
     if name_hash == || value < name_hash
-      name_hash = value 
+      name_hash = value
       empty_hash = key
-    
+
   end
   end
 empty_hash
