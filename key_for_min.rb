@@ -10,5 +10,5 @@ smallest_value = 0
       smallest_value = value
   end
 end
-value
+
 end
