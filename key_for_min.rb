@@ -5,6 +5,6 @@
 
 def key_for_min_value(name_hash)
   name_hash.each do |key|
-  puts "#{key}".sort_by 
+  puts "#{key}"
   end
 end
